@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13480" started-at="2019-10-20T02:24:04Z" finished-at="2019-10-20T02:24:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13480" started-at="2019-10-20T02:24:04Z" finished-at="2019-10-20T02:24:18Z">
+      <class name="com.sample.java.sample">
+        <test-method status="PASS" signature="GoogleHomePageTest()[pri:0, instance:com.sample.java.sample@735f7ae5]" name="GoogleHomePageTest" duration-ms="13457" started-at="2019-10-20T02:24:04Z" finished-at="2019-10-20T02:24:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleHomePageTest -->
+      </class> <!-- com.sample.java.sample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
